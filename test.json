@@ -1,10 +1,22 @@
 [
     {
-        "value": "key_1",
-        "name": "This is the item: 1"
+        "name": "Damen",
+        "value": "/damen/"
     },
     {
-        "value": "key_2",
-        "name": "This is the item: 2"
+        "name": "Herren",
+        "value": "/herren/"
+    },
+    {
+        "name": "Kinder",
+        "value": "/kinder/"
+    },
+    {
+        "name": "Bequem",
+        "value": "/bequem/"
+    },
+    {
+        "name": "SALE%",
+        "value": "/sale/"
     }
 ]
