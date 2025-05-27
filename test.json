@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Damen",
+        "href": "#",
+        "items": [
+            {
+                "name": "Alle Damen",
+                "href": "#"
+            },
+            {
+                "name": "Schuhe",
+                "href": "#",
+                "items": [
+                    {
+                        "name": "Alle Schuhe",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Sneaker",
+                        "href": "#",
+                        "items": [
+                            {
+                                "name": "Alle Sneaker",
+                                "href": "#"
+                            },
+                            {
+                                "name": "Sneaker Low",
+                                "href": "#"
+                            },
+                            {
+                                "name": "Sneaker High",
+                                "href": "#"
+                            },
+                            {
+                                "name": "Slip Ons",
+                                "href": "#"
+                            },
+                            {
+                                "name": "Wintersneaker",
+                                "href": "#"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Slipper",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Pumps",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Sandalen & Sandaletten",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Ballerinas",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Halbschuhe",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Stiefeletten & Boots",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Clogs",
+                        "href": "#"
+                    },
+                    {
+                        "name": "Stiefel",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "name": "Bequemschuhe",
+                "href": "#"
+            },
+            {
+                "name": "Damen Accessoires",
+                "href": "#"
+            },
+            {
+                "name": "Marken",
+                "href": "#"
+            },
+            {
+                "name": "Pflege & Zubehör",
+                "href": "#"
+            },
+            {
+                "name": "Inspiration",
+                "href": "#"
+            }
+        ]
+    },
+    {
+        "name": "Herren",
+        "href": "#"
+    },
+    {
+        "name": "Kinder",
+        "href": "#"
+    },
+    {
+        "name": "Marken",
+        "href": "#"
+    },
+    {
+        "name": "Bequem",
+        "href": "#"
+    },
+    {
+        "name": "Orthopädie",
+        "href": "#"
+    },
+    {
+        "name": "SALE%",
+        "href": "#"
+    }
+]
