@@ -1,5 +1,9 @@
 [
     {
+        "name": "Bequem",
+        "value": "/bequem/"
+    },
+    {
         "name": "Damen",
         "value": "/damen/"
     },
@@ -12,8 +16,8 @@
         "value": "/kinder/"
     },
     {
-        "name": "Bequem",
-        "value": "/bequem/"
+        "name": "Orthopädie",
+        "value": "/orthopaedie/"
     },
     {
         "name": "SALE%",
